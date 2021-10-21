@@ -1,3 +1,4 @@
+# requirements
 asn1crypto
 codicefiscale
 elementpath
