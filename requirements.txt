@@ -1,2 +1,6 @@
+asn1crypto
 codicefiscale
-pyxb
+elementpath
+openupgradelib
+unidecode
+xmlschema
