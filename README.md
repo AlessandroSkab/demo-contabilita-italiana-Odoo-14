@@ -1,15 +1,25 @@
 # Repository contentente le dipendenze della contabilità italiana di Odoo-14.
 
 account_vat_period_end_statement
+
 l10n_it_abicab
+
 l10n_it_account
+
 l10n_it_account_stamp
+
 l10n_it_account_tax_kind
+
 l10n_it_appointment_code
+
 l10n_it_ateco
+
 l10n_it_central_journal
+
 l10n_it_declaration_of_intent
+
 l10n_it_delivery_note
+
 l10n_it_delivery_note_base (Già installato) 
 l10n_it_delivery_note_batch (Problematico, se installato alla fine funziona.)
 l10n_it_delivery_note_customer_code (Dipende dal modulo “product_supplierinfo_for_customer” che fa parte di product-attribute, se installato product-attribute funziona.)
