@@ -78,4 +78,4 @@ l10n_it_withholding_tax_payment
 
 l10n_it_withholding_tax_reason (Già installato)
 
-git submodule add -b <branch versione Odoo es. 14.0> <URL> <PATH> && git commit -a && git push -u origin stage
+git submodule add -b <branch versione Odoo es. 14.0> <URL..> <PATH..> && git commit -a && git push -u origin stage
