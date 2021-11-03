@@ -47,6 +47,7 @@
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
 	branch = 14.0
+
 [submodule "OCA/product-attribute"]
 	path = OCA/product-attribute
 	url = git@github.com:OCA/product-attribute.git
